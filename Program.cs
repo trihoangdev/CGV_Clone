@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using CGV_Clone.Forms;
+using System;
 using System.Windows.Forms;
 
 namespace CGV_Clone
@@ -16,7 +14,7 @@ namespace CGV_Clone
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new HomeFrm());
         }
     }
 }

@@ -1,0 +1,11 @@
+D:\CGV_Clone\bin\Debug\CGV_Clone.exe.config
+D:\CGV_Clone\bin\Debug\CGV_Clone.exe
+D:\CGV_Clone\bin\Debug\CGV_Clone.pdb
+D:\CGV_Clone\obj\Debug\CGV_Clone.csproj.AssemblyReference.cache
+D:\CGV_Clone\obj\Debug\CGV_Clone.Properties.Resources.resources
+D:\CGV_Clone\obj\Debug\CGV_Clone.csproj.GenerateResource.cache
+D:\CGV_Clone\obj\Debug\CGV_Clone.csproj.CoreCompileInputs.cache
+D:\CGV_Clone\obj\Debug\CGV_Clone.exe
+D:\CGV_Clone\obj\Debug\CGV_Clone.pdb
+D:\CGV_Clone\obj\Debug\CGV_Clone.Forms.HomeFrm.resources
+D:\CGV_Clone\obj\Debug\CGV_Clone.Forms.LoginFrm.resources

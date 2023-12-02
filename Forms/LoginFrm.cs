@@ -8,13 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CGV_Clone
+namespace CGV_Clone.Forms
 {
-    public partial class Form1 : Form
+    public partial class LoginFrm : Form
     {
-        public Form1()
+        public LoginFrm()
         {
             InitializeComponent();
+            CenterToParent();
+
         }
     }
 }
